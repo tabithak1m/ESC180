@@ -3,6 +3,8 @@
 This is a compilation of Labs done in ESC180 Introduction to Programming source. All labs are done in **Python**.  
 Here, only labs with a minimum amount of complexity are included as some introductory labs were focused on learning basic python functions such as strings. 
   
+---
+
 ### Lab 6: Tic-tac-toe
 - Using a provided ttt.py file, this lab is the code for enabling two users to play against eachother and a single user to play against the program.
   
